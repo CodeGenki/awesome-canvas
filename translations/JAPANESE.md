@@ -11,27 +11,27 @@ HTML5 Canvasの参考となる例、記事、投稿などを集まった素晴�
 ## 目次
 
 - [Canvas](#canvas)
-    - [Canvasとは](#Canvasとは)
-    - [例](#例)
+    - [Canvasとは](#definition)
+    - [例](#examples)
 
-- [ライブラリ(Libraries)](#ライブラリ(Libraries))
+- [ライブラリ(Libraries)](#libraries)
 
-- [参考文献(Resources)](#参考文献(Resources))
-    - [トーク](#トーク)
-    - [本](#本)
+- [参考文献(Resources)](#resources)
+    - [トーク](#talks)
+    - [本](#books)
     - [Twitter](#twitter)
-    - [ウェブサイト](#ウェブサイト)
-    - [チュートリアル](#チュートリアル)
+    - [ウェブサイト](#websites)
+    - [チュートリアル](#websites)
 
-- [ライセンス(License)](#ライセンス(License))
+- [ライセンス(License)](#license)
 
 ## Canvas
 
-### Canvasとは
+### Canvasとは <a id="definition"></a>
 
 「HTML5 で導入された <canvas> HTML 要素は、JavaScript によるスクリプティングによって図形などを描画するために使用します。例えば、グラフを描く、写真を合成する、アニメーションを作成する、動画のリアルタイム加工やレンダリングに用いる事が出来ます。」―[Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
 
-### 例
+### 例 <a id="examples"></a>
 
 *Canvasを使用しているプロジェクト*
 
@@ -71,7 +71,7 @@ HTML5 Canvasの参考となる例、記事、投稿などを集まった素晴�
 * [Wormz](https://www.chromeexperiments.com/experiment/wormz) • Particles experiment.
 
 
-## ライブラリ(Libraries)
+## ライブラリ(Libraries) <a id="libraries"></a>
 
 ### To draw using canvas
 
@@ -99,11 +99,11 @@ and also has SVG-to-canvas (and canvas-to-SVG) parser
 - [React Canvas](https://github.com/Flipboard/react-canvas) - High performance <canvas> rendering for React components.
 
 
-## 参考文献(Resources)
+## 参考文献(Resources) <a id="resources"></a>
 
 Where to discover more about Canvas.
 
-### トーク
+### トーク <a id="talks"></a>
 
 - [Google I/O 2012 - GRITS: PvP Gaming with HTML, by Colton McAnlis](https://www.youtube.com/watch?v=Prkyd5n0P7k)
 - [Mobile HTML5 Graphics Performance, by Sam Abadir](https://www.youtube.com/watch?v=_fBRJgH_c1s)
@@ -112,7 +112,7 @@ Where to discover more about Canvas.
 - [HTML5 Canvas Animation with Javascript, by Josh Robertson](https://www.youtube.com/watch?v=sLt9WeyGVEQ)
 
 
-### 本
+### 本 <a id="books"></a>
 
 - [HTML5 Canvas](http://shop.oreilly.com/product/0636920013327.do) by Steve Fulton, Jeff Fulton - O'Reilly. Updated: [2nd Edition](http://shop.oreilly.com/product/0636920026266.do)
 - [HTML5 Canvas For Dummies](http://www.amazon.com/HTML5-Canvas-For-Dummies-Cowan/dp/1118385357) by  Don Cowan
@@ -129,7 +129,7 @@ Where to discover more about Canvas.
 * [@paul_irish](https://twitter.com/paul_irish) - Active contributor and write a [reference post about requestAnimationFrame](http://www.paulirish.com/2011/requestanimationframe-for-smart-animating/)
 * [@end3r](https://twitter.com/end3r) - HTML5 game developer and EnclaveGames indie studio founder
 
-### ウェブサイト /チュートリアル
+### ウェブサイト/チュートリアル <a id="websites"></a>
 
 - [Mozilla Developer Network Canvas Tutorial](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial) - This tutorial describes how to use the <canvas> element to draw 2D graphics, starting with the basics. The examples provided should give you some clear ideas what you can do with canvas and will provide code snippets that may get you started in building your own content.
 - [HTML5 Canvas Tutorials](http://www.html5canvastutorials.com/)
@@ -147,6 +147,6 @@ Where to discover more about Canvas.
 - [Create a game chracter with HTML5 and JavaScript - Part 2](http://www.williammalone.com/articles/create-html5-canvas-javascript-game-character/2/)
 - [Khan Academy - Hour of Drawing with Code](https://www.khanacademy.org/computing/hour-of-code/hour-of-code-tutorial/v/welcome-hour-of-code)
 
-## ライセンス(License)
+## ライセンス(License) <a id="license"></a>
 
 The content of this project itself is licensed under the [Creative Commons Attribution 3.0 license](http://creativecommons.org/licenses/by/3.0/us/deed.en_US).
