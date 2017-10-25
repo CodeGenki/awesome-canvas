@@ -42,13 +42,13 @@ HTML5 Canvasの参考となる例、記事、投稿などを集まった素晴�
 * [Circular Rings](http://cssdeck.com/labs/full/zeaklousedit) [[コードへ](http://cssdeck.com/labs/zeaklousedit)] • Canvasでリングを作る方法。
 * [Cloth 3D Effect](http://gyu.que.jp/jscloth/) (Google Chrome おすすめ) • スフィアマッピングでApple iPodをレンダリングするデモ。
 * [Cloth Effect](http://raphamorim.io/canvas-experiments/cloth) [[コードへ](https://github.com/raphamorim/canvas-experiments)] • 3Dの布エフェクトのフォーク。
-* [Colorful Particles](http://raphamorim.io/canvas-experiments/particles) [[コードへ](https://github.com/raphamorim/canvas-experiments)] • Experiment show how to generates random particles. Very simple code for assimilate.
+* [Colorful Particles](http://raphamorim.io/canvas-experiments/particles) [[コードへ](https://github.com/raphamorim/canvas-experiments)] • ランダムでパーティクルを作れる。簡単に使える。
 * [Distance Field Waves](http://www.kevs3d.co.uk/dev/shaders/distancefield3.html) [[コードへ](https://github.com/kevinroast/webglshaders/blob/master/distancefield3.html)] • A example about GPU rendering shader experiments with procedural 3D scene generation using ray marching and distance field (also known as 'sphere tracing') rendering techniques.
-* [Draw Table](http://raphamorim.io/canvas-experiments/draw) - [[コードへ](https://github.com/raphamorim/canvas-experiments)] • A simple example about events using canvas.
-* [Fibrous Texture](http://cssdeck.com/labs/full/fibrous) [[コードへ](http://cssdeck.com/labs/fibrous)] • Simple canvas based animation; draws random lines across the field. Makes an interesting papery pattern that becomes increasingly detailed with each iteration.
-* [Image Nodes](http://cssdeck.com/labs/full/image-nodes) [[コードへ](http://cssdeck.com/labs/image-nodes)] • Interactive nodes built from image data. Use the mouse to play.
-* [Inception](http://raphamorim.io/canvas-experiments/inception) [[コードへ](https://github.com/raphamorim/canvas-experiments)] • Generates a scrawl of a city, a canvas HTML5 experiment. Based on Inception movie 
-* [JS Metaballs](http://cssdeck.com/labs/full/js-metaballs) [[コードへ](http://cssdeck.com/labs/js-metaballs)] • Experiment for Chrome. Mix of webkit-filter and canvas for a metaballs effect.
+* [Draw Table](http://raphamorim.io/canvas-experiments/draw) - [[コードへ](https://github.com/raphamorim/canvas-experiments)] • Canvasを使うイベントのシンプルな例。
+* [Fibrous Texture](http://cssdeck.com/labs/full/fibrous) [[コードへ](http://cssdeck.com/labs/fibrous)] • Canvasでシンプルなアニメーション： フィールドの上にランダムで線を描く。進むとだんだん紙っぽいパターンが表示される。
+* [Image Nodes](http://cssdeck.com/labs/full/image-nodes) [[コードへ](http://cssdeck.com/labs/image-nodes)] • イメージデータで作られた対話できるノード。マウスを使って遊べる。
+* [Inception](http://raphamorim.io/canvas-experiments/inception) [[コードへ](https://github.com/raphamorim/canvas-experiments)] • ある都市のバラバラな落書きを作る実験. インセプションみたいなアイディア。
+* [JS Metaballs](http://cssdeck.com/labs/full/js-metaballs) [[コードへ](http://cssdeck.com/labs/js-metaballs)] • Chromeのための実験。Mix of webkit-filter and canvas for a metaballs effect.
 * [Just Canvas](http://raphamorim.io/just-canvas/) [[コードへ](https://github.com/raphamorim/just-canvas)]• This is a JavaScript experiment to capture movements. Just Dance Idea + HTML5 Canvas Implementation.
 * [Linjer](http://lab.hakim.se/linjer/) • Amazing experiment about nodes effects in addition with cloth and animation effect.
 * [Liquid Particles](http://spielzeugz.de/html5/liquid-particles.html) • A good example about Liquid Particles.
